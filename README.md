@@ -1,5 +1,12 @@
-# Travel Web Site
-This project is a landing page that presents a travel website with attractive images and animations, and responsive design.
+<div align="center">
+
+  <h3 align="center">Travel Web Site</h3>
+  <p align="center">
+    This project is a landing page that presents a travel website with attractive images and animations, and responsive design.
+    <br />
+    <a href="https://travel-web-site-black.vercel.app">View Demo</a>
+  </p>
+</div>
 
 ## Technologies Used
 This project was built using the following technologies:
