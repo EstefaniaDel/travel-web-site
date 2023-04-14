@@ -13,9 +13,7 @@ To install this project on your local machine, follow these steps:
 
 - Clone this repository to your machine:
 
-...bash
-# Copy code git clone https://github.com/EstefaniaDel/travel-web-site.git
-...
+  Copy code git clone https://github.com/EstefaniaDel/travel-web-site.git
 
 - Open the `index.html` file in your web browser.
 
